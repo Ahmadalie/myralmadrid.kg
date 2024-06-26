@@ -1,0 +1,40 @@
+.up{
+  background-image: url("https://ouch-cdn2.icons8.com/kdj_f8lJZ8pIYGrROPXt5V4HOP6Wkx3ss_mkvYQYJy8/rs:fit:368:368/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvODAy/Lzk4NDU0ZWJmLWQ3/MWItNGIwZC1hZTRi/LTAzMDlhYzk1YTZl/MS5zdmc.png") ;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-size: cover;
+}
+summary{
+  list-style: none;
+}
+a{
+ font-size: 100px;
+}
+.first{
+  font-size: 30px;
+}
+b{
+  font-size: 15px;
+  color: gray;
+}
+c{
+  font-size: 15px;
+}
+.stats{
+  font-size: 30px;
+}
+.ups{
+  display:flex;
+  text-align: center;
+}
+.firstt{
+  text-align: center;
+}
+d{
+  color: white;
+}
+e{
+  left: 20px;
+  color: black;
+  font-size: 15px;
+}
